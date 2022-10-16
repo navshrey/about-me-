@@ -7,12 +7,14 @@
     border-style: none;
     border-top-style: dotted;
     border-color:#C8DBBE;
-    border-width: 5px;
-    width:5%
+    border-width: 0.4vw;
+    width:5%;
   }
 
   img {
-    height: 170px
+    height: 20vw
   }
-  h1 {color: #425F57}
-  h3 {color: #425F57}
+  h1 {color: #425F57; font-size:6vw}
+  h3 {color: #425F57;font-size: 3vw}
+p{font-size: 2vw}
+li{font-size: 2vw}
